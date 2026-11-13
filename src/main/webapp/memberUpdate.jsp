@@ -9,7 +9,8 @@
 <body>
 	<h2>회원 정보 수정</h2>
 	<hr>
-	<form action="memberUpdateForm.jsp">
+<!--<form action="memberUpdateForm.jsp">  -->
+	<form action="logincheck.jsp">
 		정보수정할 아이디: <input type="text" name="userID">
 		<input type="submit" value="확인">
 		
